@@ -1,0 +1,8 @@
+C:\Users\mclark\AppData\Local\Temporary Projects\ETConsoleExample\bin\Debug\ETConsoleExample.exe.config
+C:\Users\mclark\AppData\Local\Temporary Projects\ETConsoleExample\bin\Debug\ETConsoleExample.exe
+C:\Users\mclark\AppData\Local\Temporary Projects\ETConsoleExample\bin\Debug\ETConsoleExample.pdb
+C:\Users\mclark\AppData\Local\Temporary Projects\ETConsoleExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mclark\AppData\Local\Temporary Projects\ETConsoleExample\obj\x86\Debug\ETConsoleExample.exe
+C:\Users\mclark\AppData\Local\Temporary Projects\ETConsoleExample\obj\x86\Debug\ETConsoleExample.pdb
+C:\Users\mclark\documents\visual studio 2010\Projects\ETConsoleExample\ETConsoleExample\obj\x86\Debug\ETConsoleExample.exe
+C:\Users\mclark\documents\visual studio 2010\Projects\ETConsoleExample\ETConsoleExample\obj\x86\Debug\ETConsoleExample.pdb
